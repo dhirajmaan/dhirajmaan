@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!👋, I'm Dhiraj Maan Shah</h1>
-<p align="center">A Tech Enthusiast</p>
+<h4 align="center">A Tech Enthusiast</h4>
 
 
 Nice to meet you! I am pursuing a Bachelor's degree in Computer Engineering and am interested in a variety of technologies and topics. My areas of expertise include software development, machine learning, and data science. I enjoy learning about new technology and applying them to real-world situations
